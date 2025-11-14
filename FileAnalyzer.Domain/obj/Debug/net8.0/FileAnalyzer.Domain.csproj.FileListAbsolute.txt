@@ -1,0 +1,12 @@
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/bin/Debug/net8.0/FileAnalyzer.Domain.deps.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/bin/Debug/net8.0/FileAnalyzer.Domain.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/bin/Debug/net8.0/FileAnalyzer.Domain.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.AssemblyInfoInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.AssemblyInfo.cs
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.csproj.CoreCompileInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.sourcelink.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/refint/FileAnalyzer.Domain.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/FileAnalyzer.Domain.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Domain/obj/Debug/net8.0/ref/FileAnalyzer.Domain.dll

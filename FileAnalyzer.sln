@@ -1,8 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer_ConsoleApp", "FileAnalyzer_ConsoleApp\FileAnalyzer_ConsoleApp.csproj", "{6D094E2F-508F-4B3D-928E-BF046642E057}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer_library", "FileAnalyzer_library\FileAnalyzer_library.csproj", "{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer.Domain", "FileAnalyzer.Domain\FileAnalyzer.Domain.csproj", "{1EF5A830-72FC-4BD9-9EFF-D9ECB9ED5553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer.Application", "FileAnalyzer.Application\FileAnalyzer.Application.csproj", "{A5E7CF85-81A4-4C60-817D-4001BF3C7A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer.Infrastructure", "FileAnalyzer.Infrastructure\FileAnalyzer.Infrastructure.csproj", "{B3D5FEA2-F0AE-4DAA-ACAD-4B6129F6A646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAnalyzer.API", "FileAnalyzer.API\FileAnalyzer.API.csproj", "{67AF8733-9117-4A72-A1F7-32066C4D625C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +27,21 @@ Global
 		{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44CFCD0D-FF0F-4CE0-9A0D-92DA03291476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF5A830-72FC-4BD9-9EFF-D9ECB9ED5553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF5A830-72FC-4BD9-9EFF-D9ECB9ED5553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF5A830-72FC-4BD9-9EFF-D9ECB9ED5553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF5A830-72FC-4BD9-9EFF-D9ECB9ED5553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5E7CF85-81A4-4C60-817D-4001BF3C7A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E7CF85-81A4-4C60-817D-4001BF3C7A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E7CF85-81A4-4C60-817D-4001BF3C7A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E7CF85-81A4-4C60-817D-4001BF3C7A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D5FEA2-F0AE-4DAA-ACAD-4B6129F6A646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D5FEA2-F0AE-4DAA-ACAD-4B6129F6A646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D5FEA2-F0AE-4DAA-ACAD-4B6129F6A646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D5FEA2-F0AE-4DAA-ACAD-4B6129F6A646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AF8733-9117-4A72-A1F7-32066C4D625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AF8733-9117-4A72-A1F7-32066C4D625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AF8733-9117-4A72-A1F7-32066C4D625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AF8733-9117-4A72-A1F7-32066C4D625C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

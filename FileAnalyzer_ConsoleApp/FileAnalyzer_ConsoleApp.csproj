@@ -10,6 +10,23 @@
 
     <ItemGroup>
       <ProjectReference Include="..\FileAnalyzer_library\FileAnalyzer_library.csproj" />
+      <ProjectReference Include="..\FileAnalyzer.Domain\FileAnalyzer.Domain.csproj" />
+      <ProjectReference Include="..\FileAnalyzer.Application\FileAnalyzer.Application.csproj" />
+      <ProjectReference Include="..\FileAnalyzer.Infrastructure\FileAnalyzer.Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.11" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="Configs\*.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="Files\*.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
 </Project>

@@ -1,20 +1,19 @@
-﻿using Nikolaev_RA_Project4_Var1_sideA_lib;
+﻿using FileAnalyzer.ConsoleApp.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection;
 
-namespace Nikolaev_RA_Project4_Var1_sideA;
+namespace FileAnalyzer.ConsoleApp;
 
 class Program
 {
-    static void Main()
+    static async Task Main(string[] args)
     {
-        ProgramProcess p = new ProgramProcess();
-        p.Run();
+        // Настройка Dependency Injection контейнера
+        var services = new ServiceCollection();
+        services.AddApplicationServices();
+        var serviceProvider = services.BuildServiceProvider();
+
+        // Получаем экземпляр приложения через DI и запускаем
+        var app = serviceProvider.GetRequiredService<ConsoleApplication>();
+        await app.RunAsync();
     }
 }
-
-// ../../../Files/Test1.txt
-// ../../../Files/Test2.txt
-// ../../../Files/Test3.txt
-
-
-// ../../../customConfig1.json
-// ../../../customConfig2.json

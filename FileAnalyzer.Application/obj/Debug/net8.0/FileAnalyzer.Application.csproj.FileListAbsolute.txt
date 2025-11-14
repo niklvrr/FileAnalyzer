@@ -1,0 +1,16 @@
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.csproj.AssemblyReference.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.AssemblyInfoInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.AssemblyInfo.cs
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.csproj.CoreCompileInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.sourcelink.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/bin/Debug/net8.0/FileAnalyzer.Application.deps.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/bin/Debug/net8.0/FileAnalyzer.Application.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/bin/Debug/net8.0/FileAnalyzer.Application.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/bin/Debug/net8.0/FileAnalyzer.Domain.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/bin/Debug/net8.0/FileAnalyzer.Domain.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnal.78852736.Up2Date
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/refint/FileAnalyzer.Application.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/FileAnalyzer.Application.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer.Application/obj/Debug/net8.0/ref/FileAnalyzer.Application.dll

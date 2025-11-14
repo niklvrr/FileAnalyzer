@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ez/TtSzRJnQ6Mpt7pKYpKJP1/zXT4/M1nTudntFVnmM=",
+  "Source": "FileAnalyzer.WebApi",
+  "BasePath": "_content/FileAnalyzer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

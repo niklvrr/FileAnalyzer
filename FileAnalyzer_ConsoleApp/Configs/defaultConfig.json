@@ -1,0 +1,6 @@
+{
+  "fieldsOrder": ["Дата", "Уровень", "Сообщение"],
+  "separator": " [] ",
+  "dateFormat": "yyyy-MM-dd HH:mm:ss"
+}
+

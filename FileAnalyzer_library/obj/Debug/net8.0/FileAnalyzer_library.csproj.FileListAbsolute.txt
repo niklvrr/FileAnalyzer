@@ -1,0 +1,12 @@
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/bin/Debug/net8.0/FileAnalyzer_library.deps.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/bin/Debug/net8.0/FileAnalyzer_library.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/bin/Debug/net8.0/FileAnalyzer_library.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.AssemblyInfoInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.AssemblyInfo.cs
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.csproj.CoreCompileInputs.cache
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.sourcelink.json
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/refint/FileAnalyzer_library.dll
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/FileAnalyzer_library.pdb
+/Users/romanikolaev/RiderProjects/Nikolaev_RA_Project4_Var1_sideA/FileAnalyzer_library/obj/Debug/net8.0/ref/FileAnalyzer_library.dll

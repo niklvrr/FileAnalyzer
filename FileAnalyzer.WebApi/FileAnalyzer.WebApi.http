@@ -1,0 +1,6 @@
+@FileAnalyzer.WebApi_HostAddress = http://localhost:5229
+
+GET {{FileAnalyzer.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

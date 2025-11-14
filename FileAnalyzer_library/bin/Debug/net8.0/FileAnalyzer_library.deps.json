@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileAnalyzer_library/1.0.0": {
+        "runtime": {
+          "FileAnalyzer_library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileAnalyzer_library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

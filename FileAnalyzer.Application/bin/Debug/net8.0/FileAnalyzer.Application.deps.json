@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileAnalyzer.Application/1.0.0": {
+        "dependencies": {
+          "FileAnalyzer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FileAnalyzer.Application.dll": {}
+        }
+      },
+      "FileAnalyzer.Domain/1.0.0": {
+        "runtime": {
+          "FileAnalyzer.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileAnalyzer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileAnalyzer.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
